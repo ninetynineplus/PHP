@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2017-03-28 12:37:57 --> Severity: Warning --> Illegal string offset 'key' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 427
+ERROR - 2017-03-28 12:37:57 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 456
+ERROR - 2017-03-28 12:37:57 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 464
+ERROR - 2017-03-28 12:37:57 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 4
+ERROR - 2017-03-28 12:37:57 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 7
+ERROR - 2017-03-28 12:46:19 --> Severity: Warning --> Illegal string offset 'key' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 427
+ERROR - 2017-03-28 12:46:19 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 456
+ERROR - 2017-03-28 12:46:19 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 464
+ERROR - 2017-03-28 12:46:19 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 4
+ERROR - 2017-03-28 12:46:19 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 7
+ERROR - 2017-03-28 14:48:44 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 14:52:28 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 14:54:43 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 14:55:37 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 14:56:21 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 14:57:15 --> Severity: Warning --> Illegal string offset 'key' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 427
+ERROR - 2017-03-28 14:57:15 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 456
+ERROR - 2017-03-28 14:57:15 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/models/Appointments_model.php 464
+ERROR - 2017-03-28 14:57:15 --> Severity: Warning --> Illegal string offset 'limit' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 4
+ERROR - 2017-03-28 14:57:15 --> Severity: Warning --> Illegal string offset 'page' /home/healthy2/account.healthyfirst.id/application/views/appointments/list.php 7
+ERROR - 2017-03-28 15:31:22 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 15:32:16 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 15:34:36 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 15:35:53 --> Severity: Warning --> json_decode() expects parameter 1 to be string, array given /home/healthy2/account.healthyfirst.id/application/models/Services_model.php 49
+ERROR - 2017-03-28 18:45:42 --> Query error: Column 'status' cannot be null - Invalid query: INSERT INTO `ea_appointments` (`book_datetime`, `start_datetime`, `hash`, `id_users_provider`, `pref_provider_gender`, `id_users_customer`, `id_services`, `duration`, `address`, `payment`, `fee`, `voucher`, `status`) VALUES ('2017-03-28 18:45:42', '2017-03-28 20:20:20', 'bf30d521efed5827232269db95533145', 0, 'Male', '91', '3', '60', 'Jl. Kebayoran Lama No. 123 Jakarta Selatan', 'Cash', '160000.00', 'MARETCERIA', NULL)
+ERROR - 2017-03-28 20:26:23 --> Query error: Column 'status' cannot be null - Invalid query: INSERT INTO `ea_appointments` (`book_datetime`, `start_datetime`, `hash`, `id_users_provider`, `pref_provider_gender`, `id_users_customer`, `id_services`, `duration`, `address`, `payment`, `fee`, `voucher`, `status`) VALUES ('2017-03-28 20:26:23', '2017-03-28 20:20:20', '868019fb31a037e600fa370d0e0b3329', 0, 'Male', '91', '3', '60', 'Jl. Kebayoran Lama No. 123 Jakarta Selatan', 'Cash', '160000.00', 'MARETCERIA', NULL)
+ERROR - 2017-03-28 20:27:00 --> Query error: Column 'status' cannot be null - Invalid query: INSERT INTO `ea_appointments` (`book_datetime`, `start_datetime`, `hash`, `id_users_provider`, `pref_provider_gender`, `id_users_customer`, `id_services`, `duration`, `address`, `payment`, `fee`, `voucher`, `status`) VALUES ('2017-03-28 20:27:00', '2017-03-28 20:20:20', '68d03868d43df816d5d3079d780494fe', 0, 'Male', '91', '3', '60', 'Jl. Kebayoran Lama No. 123 Jakarta Selatan', 'Cash', '160000.00', 'MARETCERIA', NULL)
